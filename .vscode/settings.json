@@ -11,5 +11,36 @@
   "files.associations": {
     "**/packages/create-app/template/**/*": "plaintext"
   },
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#da2771",
+    "activityBar.background": "#da2771",
+    "panel.border": "#da2771",
+    "sash.hoverBorder": "#da2771",
+    "sideBar.border": "#da2771",
+    "statusBar.background": "#b01e5a",
+    "statusBarItem.hoverBackground": "#da2771",
+    "statusBarItem.remoteBackground": "#b01e5a",
+    "titleBar.activeBackground": "#b01e5a",
+    "titleBar.inactiveBackground": "#b01e5a99",
+    "statusBar.border": "#b01e5a",
+    "titleBar.border": "#b01e5a",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "commandCenter.border": "#e7e7e799",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#70da25",
+    "activityBarBadge.foreground": "#15202b"
+  },
+  "peacock.color": "#b01e5a",
+   "problems.decorations.enabled": false,
+  "editor.showUnused": false,
+  "typescript.validate.enable": false,
+  "javascript.validate.enable": false,
+  "cSpell.words": [
+    "Fuma"
+  ]
 }
